@@ -1,3 +1,11 @@
+# Disclaimer
+
+This project is just for learning purposes. All the credit goes to the <a  href="https://netflix.com" target="_blank" rel="noopener noreferrer">Netflix Team</a>.
+This project is made possible using <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">ReactJS</a> and <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">TailwindCSS</a> with further styling improvements.
+
+<p>Made with<span> ❤ </span> by <a rel="noreferrer" href="https://milindgoel15.github.io" target="_blank">Milind Goel</a>.</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
