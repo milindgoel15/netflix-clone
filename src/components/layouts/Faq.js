@@ -5,7 +5,7 @@ import Accordion from "./Accordion";
 let Faq = () => {
    return (
       <div className="bg-black text-white gap-6 py-24 flex flex-col justify-center border-b-8 border-solid border-zinc-900 text-center lg:px-20 xl:px-44">
-         <h2 className="text-3xl xl:text-5xl font-semibold">Frequently Asked Questions</h2>
+         <h2 className="text-2xl md:text-3xl lg:text-5xl font-semibold">Frequently Asked Questions</h2>
 
          <section className="py-10">
             {
