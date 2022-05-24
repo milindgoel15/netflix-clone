@@ -33,7 +33,7 @@ let Footer = () => {
                <br />
                This project is made possible using <a className="border-b-0 transition-all border-b-transparent hover:border-b hover:border-red-600 " href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">ReactJS</a> and <a className="border-b-0 transition-all border-b-transparent hover:border-b hover:border-red-600 " href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">TailwindCSS</a> with further styling improvements.
             </p>
-            <p className="transition-all pt-6 duration-300 ease-in">Made with<span className="text-red-600 transition-all hover:text-red-800 duration-300 ease-in-out"> ❤ </span> by <a rel="noreferrer" href="https://milindgoel15.github.io" target="_blank" className="transition-all duration-300 ease-in-out hover:text-red-600">Milind Goel</a>.
+            <p className="transition-all pt-6 duration-300 ease-in">Made with<span className="text-red-600 transition-all hover:text-red-800 duration-300 ease-in-out"> ❤ </span> by <a rel="noreferrer" href="https://github.com/milindgoel15" target="_blank" className="transition-all duration-300 ease-in-out hover:text-red-600">Milind Goel</a>.
             </p>
          </div>
       </footer>
